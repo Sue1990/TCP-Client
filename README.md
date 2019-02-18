@@ -1,15 +1,15 @@
 # TCP-Client
 TCP Client
- 	<tr>HTTP/1.1 301 Moved Permanently</tr>
-	<tr>Location: http://www.google.com/</tr>
-	<tr>Content-Type: text/html; charset=UTF-8</tr>
-	<tr>Date: Sun, 17 Feb 2019 14:23:33 GMT</tr>
-	<tr>Expires: Tue, 19 Mar 2019 14:23:33 GMT</tr>
-	<tr>Cache-Control: public, max-age=2592000</tr>
-	<tr>Server: gws</tr>
-	<tr>Content-Length: 219</tr>
-	<tr>X-XSS-Protection: 1; mode=block</tr>
-	<tr>X-Frame-Options: SAMEORIGIN</tr>
+ 	HTTP/1.1 301 Moved Permanently
+	Location: http://www.google.com/
+	Content-Type: text/html; charset=UTF-8
+	Date: Sun, 17 Feb 2019 14:23:33 GMT
+	Expires: Tue, 19 Mar 2019 14:23:33 GMT
+	Cache-Control: public, max-age=2592000
+	Server: gws
+	Content-Length: 219
+	X-XSS-Protection: 1; mode=block
+	X-Frame-Options: SAMEORIGIN
 	
 
 	<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
