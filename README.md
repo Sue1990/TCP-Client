@@ -1,7 +1,7 @@
 # TCP-Client
 TCP Client
-Result:
- 	HTTP/1.1 301 Moved Permanently
+Result:</br>
+ 	HTTP/1.1 301 Moved Permanently</br>
 	Location: http://www.google.com/
 	Content-Type: text/html; charset=UTF-8
 	Date: Sun, 17 Feb 2019 14:23:33 GMT
