@@ -11,8 +11,6 @@ Result:</br>
 	Content-Length: 219</br>
 	X-XSS-Protection: 1; mode=block</br>
 	X-Frame-Options: SAMEORIGIN</br>
-	
-
 	<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
 	<TITLE>301 Moved</TITLE></HEAD><BODY>
 	<H1>301 Moved</H1>
