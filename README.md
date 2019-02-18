@@ -1,5 +1,6 @@
 # TCP-Client
 TCP Client
+Result:
  	HTTP/1.1 301 Moved Permanently
 	Location: http://www.google.com/
 	Content-Type: text/html; charset=UTF-8
